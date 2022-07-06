@@ -1,0 +1,7 @@
+Estamos jugando 
+para hacer pull de elementos
+en nuestro repositorio
+listos para comenzar
+pull
+modificamos las cuestiones para seguir probando GIT
+Nueva linea para probar el log
